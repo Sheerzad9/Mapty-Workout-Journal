@@ -14,5 +14,10 @@ So updates coming in future. ☺
 **Try the app here:** https://stoic-hawking-420714.netlify.app/
 
 # Pictures of the app
-
+## Starting app first time
+![Picture of application](https://github.com/Sheerzad9/Mapty-Workout-Journal/blob/main/AppPictures/screencapture-1.png)
+## Adding few running workouts
+![Picture of application](https://github.com/Sheerzad9/Mapty-Workout-Journal/blob/main/AppPictures/screencapture-2.png)
+## Adding also cycling workout
+![Picture of application](https://github.com/Sheerzad9/Mapty-Workout-Journal/blob/main/AppPictures/screencapture-3.png)
 
